@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="practice_project.Callout.MyCallout"/>
+    <fullyQualifiedTypeName name="org.compiere.util.CLogger"/>
+    <fullyQualifiedTypeName name="org.adempiere.base.IColumnCalloutFactory"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="org.compiere.model.MOrder"/>
+    <fullyQualifiedTypeName name="com.idlogix.practice.Callout.DateCallout"/>
+    <fullyQualifiedTypeName name="java.text.DateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.sql.Timestamp"/>
+    <fullyQualifiedTypeName name="java.security.Timestamp"/>
+    <fullyQualifiedTypeName name="org.adempiere.base.IColumnCallout"/>
+    <fullyQualifiedTypeName name="org.adempiere.base.IProcessFactory"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="org.compiere.util.DB"/>
+    <fullyQualifiedTypeName name="java.util.spi.ResourceBundleControlProvider"/>
+    <fullyQualifiedTypeName name="java.util.logging.Level"/>
+    <fullyQualifiedTypeName name="com.idlogix.processes.DecreasePercentage"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="org.adempiere.base.annotation.Process"/>
+    <fullyQualifiedTypeName name="org.compiere.process.SvrProcess"/>
+    <fullyQualifiedTypeName name="com.idlogix.models.X_C_ProductReview"/>
+    <fullyQualifiedTypeName name="org.adempiere.base.annotation.ModelEventTopic"/>
+    <fullyQualifiedTypeName name="org.adempiere.base.Model"/>
+    <fullyQualifiedTypeName name="com.idlogix.model.X_C_ProductReview"/>
+    <fullyQualifiedTypeName name="org.adempiere.base.Core"/>
+</qualifiedTypeNameHistroy>

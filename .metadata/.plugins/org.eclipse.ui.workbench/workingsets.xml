@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1729574018005_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1729574018020_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1729579001570_3" label="org.idempiere.main" name="org.idempiere.main">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.main" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.base" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.base.callout" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.base.process" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.payment.processor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.eclipse.equinox.http.servlet" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.install" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.pipo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.pipo.handlers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.plugin.utils" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.replication" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.replication.server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.report.jasper.library" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.report.jasper" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.ui.zk" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.apache.ecs" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.compiere.db.oracle.provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.compiere.db.postgresql.provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.felix.webconsole" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.hazelcast.service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.webservices" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.webservices.resources" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.webservices.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.zk.extra" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.keikai" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.printformat.editor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.zk.billboard" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.zk.billboard.chart" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.report.jasper.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.base.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.replication.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.pipo.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.replication.server.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.server.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.ui.zk.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.compiere.db.provider.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.eclipse.platform.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.equinox.p2.director.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.felix.webconsole.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.hazelcast.service.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.adempiere.payment.processor.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.zk.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.webservices.client.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.jetty.osgi.boot.fragment" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.ui.sso.oidc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.tablepartition" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.p2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.javadoc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.test.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.idempiere.p2.targetplatform" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1729574024902_2" label="Window Working Set" name="Aggregate for window 1729574024902"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1730180703807_4" label="Window Working Set" name="Aggregate for window 1730180703805"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1730640763606_5" label="Window Working Set" name="Aggregate for window 1730640763605"/>
+</workingSetManager>
