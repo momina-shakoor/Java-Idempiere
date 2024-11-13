@@ -1,0 +1,14 @@
+package com.idlogix.ModelValidatorFactory;
+
+import org.adempiere.base.IModelValidatorFactory;
+import org.compiere.model.ModelValidator;
+
+public class MyModelValidatorFactory implements IModelValidatorFactory{
+
+	@Override
+	public ModelValidator newModelValidatorInstance(String className) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

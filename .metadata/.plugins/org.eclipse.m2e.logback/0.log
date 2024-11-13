@@ -5265,3 +5265,9 @@
 2024-11-06 15:07:12,719 [Worker-111: Building] INFO  o.c.plexus.archiver.jar.JarArchiver - Building jar: C:\idempiere\org.idempiere.test\target\org.idempiere.test-11.0.0-SNAPSHOT.jar
 2024-11-06 15:14:23,392 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-11-06 15:14:23,392 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\idempiere\org.adempiere.server-feature\src\main\resources
+2024-11-11 11:28:55,675 [org.eclipse.jdt.internal.ui.text.JavaReconciler] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/org.osgi.service.obr/1.0.2/org.osgi.service.obr-1.0.2-sources.jar
+2024-11-11 11:29:05,896 [Worker-23: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-11 15:47:26,082 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-11 15:47:26,083 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\idempiere\org.adempiere.server-feature\src\main\resources
+2024-11-11 15:50:02,110 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-11 15:50:02,110 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\idempiere\org.adempiere.server-feature\src\main\resources

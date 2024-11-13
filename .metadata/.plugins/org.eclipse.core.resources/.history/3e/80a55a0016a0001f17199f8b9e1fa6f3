@@ -1,0 +1,5 @@
+package com.idlogix.activator;
+
+public class ModelValidatorActivator implements ModelValidatorActivator{
+
+}
