@@ -4,7 +4,7 @@
 		<item key="TOGGLE_SELECTED" value="false"/>
 		<item key="DIALOG_WIDTH" value="828"/>
 		<item key="DIALOG_HEIGHT" value="482"/>
-		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI"/>
 		<item key="BUILD_NOW" value="true"/>
 		<item key="BUILD_ALL" value="true"/>
 	</section>
@@ -13,14 +13,23 @@
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 		</list>
 		<section name="NewWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="0"/>
+			<item key="DIALOG_Y_ORIGIN" value="0"/>
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="563"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
 	</section>
 	<section name="SmartImportWizard">
-		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\infinity-workspace\AE-InfinityERP-Plugins\com.idlogix.gatepasses"/>
+			<item value="C:\Users\UnitechSolutions\Downloads\com.idlogix.gatepasses"/>
+			<item value="E:\infinity-workspace\com.idlogix.gatepasses"/>
+			<item value="E:\infinity-workspace\AE-InfinityERP-Plugins"/>
 			<item value="C:\Users\UnitechSolutions\eclipse-workspace\com.idlogix.activator"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
@@ -78,5 +87,8 @@
 			<item key="DIALOG_Y_ORIGIN" value="182"/>
 			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="E:\infinity-workspace\AE-InfinityERP-Plugins"/>
 	</section>
 </section>

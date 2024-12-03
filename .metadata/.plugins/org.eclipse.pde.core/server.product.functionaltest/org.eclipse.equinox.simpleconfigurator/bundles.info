@@ -28,7 +28,6 @@ com.google.http-client.google-http-client,1.39.2.sp_1_v202109010034,file:/C:/Use
 com.google.oauth-client,1.31.5,file:/C:/Users/UnitechSolutions/.m2/repository/com/google/oauth-client/google-oauth-client/1.31.5/google-oauth-client-1.31.5.jar,4,false
 com.google.zxing.core,3.4.1,file:/C:/Users/UnitechSolutions/.m2/repository/com/google/zxing/core/3.4.1/core-3.4.1.jar,4,false
 com.ibm.icu,69.1.0,file:/C:/Users/UnitechSolutions/.m2/repository/com/ibm/icu/icu4j/69.1/icu4j-69.1.jar,4,false
-com.idlogix.activator,1.0.0.qualifier,file:/C:/Users/UnitechSolutions/eclipse-workspace/com.idlogix.activator/,4,true
 com.idlogix.models,1.0.0.qualifier,file:/C:/Users/UnitechSolutions/eclipse-workspace/com.idlogix.models/,4,true
 com.idlogix.practice,1.0.0.qualifier,file:/C:/Users/UnitechSolutions/eclipse-workspace/com.idlogix.Callouts/,4,true
 com.idlogix.processes,1.0.0.qualifier,file:/C:/Users/UnitechSolutions/eclipse-workspace/com.idlogix.processes/,4,true

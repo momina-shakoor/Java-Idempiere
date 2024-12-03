@@ -1,0 +1,22 @@
+<window title="My Custom Form" border="normal" width="400px">
+    <grid>
+        <columns>
+            <column label="Field Name" />
+            <column label="Value" />
+        </columns>
+        <rows>
+            <row>
+                <label value="Name:" />
+                <textbox id="nameField" />
+            </row>
+            <row>
+                <label value="Description:" />
+                <textbox id="descriptionField" multiline="true" rows="3" />
+            </row>
+            <row>
+                <label />
+                <button label="Submit" id="submitButton" />
+            </row>
+        </rows>
+    </grid>
+</window>

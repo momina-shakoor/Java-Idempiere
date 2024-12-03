@@ -1,5 +1,10 @@
 #encoding=UTF-8
 #version=1
+ae.idlogix.callouts,1.0.0.qualifier,file:/E:/infinity-workspace/AE-InfinityERP-Plugins/ae.idlogix.callouts/,4,true
+ae.idlogix.forms,1.0.0.qualifier,file:/E:/infinity-workspace/AE-InfinityERP-Plugins/ae.idlogix.forms/,4,true
+ae.idlogix.models,1.0.0.qualifier,file:/E:/infinity-workspace/AE-InfinityERP-Plugins/ae.idlogix.models/,4,true
+ae.idlogix.modelvalidator,1.0.0.qualifier,file:/E:/infinity-workspace/AE-InfinityERP-Plugins/ae.idlogix.modelvalidator/,1,true
+ae.idlogix.processes,1.0.0.qualifier,file:/E:/infinity-workspace/AE-InfinityERP-Plugins/ae.idlogix.processes/,4,true
 bcmail,1.72.0,file:/C:/Users/UnitechSolutions/.m2/repository/org/bouncycastle/bcmail-jdk18on/1.72/bcmail-jdk18on-1.72.jar,4,false
 bcpg,1.72.2,file:/C:/Users/UnitechSolutions/.m2/repository/org/bouncycastle/bcpg-jdk18on/1.72.2/bcpg-jdk18on-1.72.2.jar,4,false
 bcpkix,1.72.0,file:/C:/Users/UnitechSolutions/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.72/bcpkix-jdk18on-1.72.jar,4,false
@@ -28,7 +33,8 @@ com.google.http-client.google-http-client,1.39.2.sp_1_v202109010034,file:/C:/Use
 com.google.oauth-client,1.31.5,file:/C:/Users/UnitechSolutions/.m2/repository/com/google/oauth-client/google-oauth-client/1.31.5/google-oauth-client-1.31.5.jar,4,false
 com.google.zxing.core,3.4.1,file:/C:/Users/UnitechSolutions/.m2/repository/com/google/zxing/core/3.4.1/core-3.4.1.jar,4,false
 com.ibm.icu,69.1.0,file:/C:/Users/UnitechSolutions/.m2/repository/com/ibm/icu/icu4j/69.1/icu4j-69.1.jar,4,false
-com.idlogix.activator,1.0.0.qualifier,file:/C:/Users/UnitechSolutions/eclipse-workspace/com.idlogix.activator/,4,true
+com.idlogix.forms,1.0.0.qualifier,file:/C:/Users/UnitechSolutions/eclipse-workspace/com.idlogix.forms/,4,true
+com.idlogix.gatepasses,1.0.0.qualifier,file:/E:/infinity-workspace/AE-InfinityERP-Plugins/com.idlogix.gatepasses/,4,true
 com.idlogix.models,1.0.0.qualifier,file:/C:/Users/UnitechSolutions/eclipse-workspace/com.idlogix.models/,4,true
 com.idlogix.practice,1.0.0.qualifier,file:/C:/Users/UnitechSolutions/eclipse-workspace/com.idlogix.Callouts/,4,true
 com.idlogix.processes,1.0.0.qualifier,file:/C:/Users/UnitechSolutions/eclipse-workspace/com.idlogix.processes/,4,true

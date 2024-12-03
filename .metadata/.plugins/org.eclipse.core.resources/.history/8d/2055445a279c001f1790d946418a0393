@@ -1,7 +1,0 @@
-package com.idlogix.activator;
-
-import org.osgi.framework.BundleActivator;
-
-public class ModelActivator implements BundleActivator{
-
-}

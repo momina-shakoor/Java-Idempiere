@@ -1,15 +1,14 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Processes
-Bundle-SymbolicName: com.idlogix.processes
+Bundle-Name: Activator
+Bundle-SymbolicName: com.idlogix.processes;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Require-Bundle: org.adempiere.base;bundle-version="11.0.0",
  org.adempiere.plugin.utils;bundle-version="11.0.0",
- org.adempiere.ui;bundle-version="11.0.0",
- org.adempiere.ui.zk;bundle-version="11.0.0"
-Service-Component: practice_component.xml
+ org.eclipse.core.runtime;bundle-version="3.26.100"
 Bundle-Vendor: IDLOGIX
-Automatic-Module-Name: com.idlogix.processes
+Automatic-Module-Name: com.idlogix.activator
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: com.idlogix.activator.Activator
 Bundle-RequiredExecutionEnvironment: JavaSE-17
-Import-Package: org.compiere.process,
- org.osgi.framework;version="[1.10.0,2.0.0)"
+Import-Package: org.osgi.framework;version="[1.10.0,2.0.0)"

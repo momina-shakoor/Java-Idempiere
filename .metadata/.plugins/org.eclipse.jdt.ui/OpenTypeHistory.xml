@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=org.adempiere.base/src=/optional=/true=/=/maven.pomderived=/true=/&lt;org.compiere.model{MOrder.java[MOrder" modifiers="1" timestamp="1729580778618"/>
     <typeInfo handle="=com.idlogix.models/src&lt;com.idlogix.activator{ModelActivator.java[ModelActivator" modifiers="1" timestamp="1730887830387"/>
+    <typeInfo handle="=com.idlogix.models/src&lt;com.idlogix.ModelValidatorFactory{MyModelValidatorFactory.java[MyModelValidatorFactory" modifiers="1" timestamp="1731321127775"/>
+    <typeInfo handle="=org.adempiere.base/src=/optional=/true=/=/maven.pomderived=/true=/&lt;org.adempiere.base{IModelValidatorFactory.java[IModelValidatorFactory" modifiers="513" timestamp="1729574527454"/>
+    <typeInfo handle="=org.adempiere.base/src=/optional=/true=/=/maven.pomderived=/true=/&lt;org.compiere.model{MProduct.java[MProduct" modifiers="1" timestamp="1729574639578"/>
+    <typeInfo handle="=org.adempiere.base/src=/optional=/true=/=/maven.pomderived=/true=/&lt;org.compiere.model{MOrder.java[MOrder" modifiers="1" timestamp="1729580778618"/>
+    <typeInfo handle="=org.adempiere.base/src=/optional=/true=/=/maven.pomderived=/true=/&lt;org.compiere.model{PO.java[PO" modifiers="1025" timestamp="1730887606871"/>
+    <typeInfo handle="=com.idlogix.processes/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.idlogix.activator{Activator.java[Activator" modifiers="1" timestamp="1732859067588"/>
+    <typeInfo handle="=com.idlogix.forms/src&lt;com.idlogix.formfactory{formFactory.java[formFactory" modifiers="1" timestamp="1733212654286"/>
+    <typeInfo handle="=org.adempiere.ui.zk/WEB-INF\/src=/optional=/true=/=/maven.pomderived=/true=/&lt;org.adempiere.webui.factory{IFormFactory.java[IFormFactory" modifiers="513" timestamp="1729574639854"/>
 </typeInfoHistroy>
