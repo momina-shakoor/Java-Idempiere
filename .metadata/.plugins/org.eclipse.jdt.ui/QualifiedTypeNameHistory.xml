@@ -38,4 +38,5 @@
     <fullyQualifiedTypeName name="org.adempiere.webui.adwindow.AbstractADWindowContent"/>
     <fullyQualifiedTypeName name="io.keikai.ui.event.Events"/>
     <fullyQualifiedTypeName name="org.zkoss.zk.ui.event.Events"/>
+    <fullyQualifiedTypeName name="org.zkoss.zul.Radiogroup"/>
 </qualifiedTypeNameHistroy>
